@@ -1,0 +1,23 @@
+body {
+    letter-spacing: 1px;
+}
+
+.service-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.read_more {
+    line-height: 100px;
+}
+
+.read_less {
+    line-height: 100px;
+}
+
+.btn {
+    letter-spacing: 3px;
+    outline: 0!important;
+    border: none;
+}
+    
