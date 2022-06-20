@@ -20,4 +20,7 @@ body {
     outline: 0!important;
     border: none;
 }
-    
+
+.g-widget {
+    margin-top: 20px;
+}
