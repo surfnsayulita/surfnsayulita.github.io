@@ -7,6 +7,12 @@ body {
     justify-content: space-around;
 }
 
+@media (max-width: 620px) {
+    .service-container {
+       flex-direction: column;
+    }
+}
+
 .read_more {
     line-height: 100px;
 }
