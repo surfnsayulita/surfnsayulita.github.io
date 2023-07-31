@@ -30,3 +30,7 @@ body {
 .g-widget {
     margin: 20px 15px;
 }
+
+.link-text {
+    font-size: 1em;
+}
